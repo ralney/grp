@@ -1,5 +1,5 @@
-# grp
-Gestor de Recursos Planetários (2020)
+# GRP
+<p>Gestor de Recursos Planetários (2020)</P>
 Este projeto nasceu da minha experiência em um projeto de sustentabilidade que conheci no estado do Espírito Santo, no Brasil, onde eu percebi a necessidade de colocar alguma coisa em prática, diante de tanto potencial ativismo que se perde por falta de organização, ou por falta de um sistema de informações para organizar projetos e recursos em torno de objetivos comuns.
 Não sei se existem projetos nesse sentido, mas isto não me importa, pois sinto uma imensa necessidade de iniciar o desenvolvimento de um sistema de gestão de recursos planetários para que essa ideia floreça e dê frutos o mais rápido possível, devido ao avançado processo de devastação social e ambiental em que nosso planeta se encontra atualmente, praticamente caminhando para a maior extinção em massa da história conhecida, ou em outras palavras, para a própria extinção planetária.
 Espero encontrar a ajuda de especialistas para me orientar sobre quais as melhores práticas e estratégias para atingir este objetivo, mas, se não surgir nenhuma grande ajuda, não vou me abater, e me manterei firme nesse grande propósito.
